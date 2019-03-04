@@ -25,10 +25,11 @@ Para instalar o git: sudo apt-get install git.
 
 9 - ssh-keygen
 
---------------------------------------------------------
+========================================================
+
 Vejam:
 
-https://www.youtube.com/watch?v=aEGkYK6AVRg  <-- muito bom
+https://www.youtube.com/watch?v=aEGkYK6AVRg   
 
 https://www.youtube.com/watch?v=UbJLOn1PAKw&t=850s
 
