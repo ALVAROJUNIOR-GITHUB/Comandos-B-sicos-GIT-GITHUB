@@ -27,7 +27,7 @@ Para instalar o git: sudo apt-get install git.
 
 ========================================================
 
-Vejam:
+Para detalhes vejam:
 
 https://www.youtube.com/watch?v=aEGkYK6AVRg   
 
