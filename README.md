@@ -5,7 +5,7 @@ Testados no TERMINAL LINUX.
 
 Para instalar o git: sudo apt-get install git.
 
---------------------------------------------------------
+========================================================
 
 1 - git init 
 
